@@ -1,6 +1,6 @@
 <div align="center">:sunny:<div>
 <h1 align="center">WeatherApp</h1>
-<p align="center">Simple weather app with JavaScript. (Allow input or use device locator).</p>
-![image](https://user-images.githubusercontent.com/82126168/203389943-a3a97e29-bc62-4418-8801-502f36f77a11.png)
-![image](https://user-images.githubusercontent.com/82126168/203389973-cfe92dc8-b3a5-458d-ab53-e59e430c4f70.png)
+<p align="center">Simple weather app with JavaScript. (Allow input or use device locator).</p> 
+![WeatherApp1](https://user-images.githubusercontent.com/82126168/203390229-52bccd50-d7d6-4bb0-b935-5a497caea595.jpg)
+![WeatherApp2](https://user-images.githubusercontent.com/82126168/203390296-9e3878cd-f824-45bc-9cb8-1cfc7569d2d5.jpg)
 
