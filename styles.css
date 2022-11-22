@@ -26,6 +26,7 @@ body {
 
 .wrapper {
     background-color: #fff;
+    width: 25rem;
     min-width: 19rem;
     box-shadow:
         0 2.8px 2.2px rgba(0, 0, 0, 0.034),
