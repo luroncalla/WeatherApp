@@ -229,7 +229,7 @@ header i {
 
 @media  screen and (max-width: 420px) {
     body{
-        max-height: 100vh;
+        max-height: 100%;
     }
     .wrapper {
         width: 19rem;
